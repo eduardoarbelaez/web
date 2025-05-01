@@ -1,0 +1,13 @@
+body{
+    background-color:coral;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+/*Soy un comentario*/
+.class{
+    max-width: 90%;
+    width: 600px;
+    margin: 0 auto;
+    padding: 20px; 
+    text-align: center;
+}
